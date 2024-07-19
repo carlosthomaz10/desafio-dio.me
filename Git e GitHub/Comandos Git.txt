@@ -1,0 +1,25 @@
+Dir = listar.
+
+Cd = entrar na pasta.
+
+Cls = limpar o repositório.
+
+Tab = compretar o que vc quer escrever.
+
+Mkdir = criar pasta.
+
+Echo = imprimi na tela.
+
+Cd.. = sai da pasta ou retrocede uma casa.
+
+Del = deleta arquivos dentro do repositório.
+
+Rmdir = deleta o repositório.
+
+Git init = inicializar o git para gerenciar o código.
+
+Ls –a = mostrar arquivos ocultos.
+
+Git status = ajudar a monitorar os status dos arquivos.
+
+Mv = mover arquivos de uma pasta para outra.
